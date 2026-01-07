@@ -1,16 +1,16 @@
-# Security Policy
+# Política de segurança
 
-## Overview
+## Visão geral
 
-This policy applies to MDN's website (`developer.mozilla.org`), backend services, and GitHub repositories in the [`mdn`](https://github.com/mdn) organization. Issues affecting other Mozilla products or services should be reported through the [Mozilla Security Bug Bounty Program](https://www.mozilla.org/en-US/security/bug-bounty/).
+Esta política aplica-se ao site da MDN (`developer.mozilla.org`), serviços de back-end e repositórios do GitHub no  [`Homem`](https://github.com/mdn)  organização. As questões que afetam outros produtos ou serviços da Mozilla devem ser relatadas através do  [Programa de recompensas de bugs de segurança Mozilla](https://www.mozilla.org/en-US/security/bug-bounty/).
 
-For non-security issues, please file a [content bug](https://github.com/mdn/content/issues/new/choose), a [website bug](https://github.com/mdn/fred/issues/new/choose) or a [content/feature suggestion](https://github.com/mdn/mdn/issues/new/choose).
+Para problemas não de segurança, por favor, arquive um  [Bug de conteúdo](https://github.com/mdn/content/issues/new/choose), a. [Bug do site](https://github.com/mdn/fred/issues/new/choose)  Ou um...  [Sugestão de conteúdo/recurso](https://github.com/mdn/mdn/issues/new/choose).
 
-## Reporting a Vulnerability
+## Relatar uma vulnerabilidade
 
-If you discover a potential security issue, please report it privately via <https://hackerone.com/mozilla>.
+Se você descobrir um problema de segurança em potencial, informe-o em particular via <https://hackerone.com/mozilla>.
 
-If you prefer not to use HackerOne, you can report it via <https://bugzilla.mozilla.org/form.web.bounty>.
+Se preferir não utilizar o HackerOne, pode denunciá-lo através de <https://bugzilla.mozilla.org/form.web.bounty>.
 
 ## Bounty Program
 
